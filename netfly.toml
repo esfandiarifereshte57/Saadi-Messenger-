@@ -1,0 +1,12 @@
+[package]
+name = "saadi-messenger"
+version = "0.1.0"
+edition = "2021"
+
+# این بخش مشخص می‌کند که پروژه شما یک برنامه اجرایی است
+[[bin]]
+name = "saadi-messenger"
+path = "src/main.rs"
+
+[dependencies]
+# وابستگی‌های مورد نیاز برای کامپایل به WebAssembly را اینجا اضافه کنید
