@@ -1,0 +1,8 @@
+{
+  "name": "saadi-messenger",
+  "version": "1.0.0",
+  "description": "Real Saadi Messenger with Netlify Functions",
+  "dependencies": {
+    "bcryptjs": "^2.4.3"
+  }
+}
